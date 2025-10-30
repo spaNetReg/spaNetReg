@@ -2,7 +2,7 @@
 spaNetReg is a framework designed to infer transcription factor regulatory network(TRN) from spatial ATAC-seq data. By integrating spatial information through a Gaussian Process (GP) prior and graph structure learning via a Variational Graph Autoencoder (VGAE),  
 spaNetReg achieves reconstruction of regulatory interactions in complex tissue architectures.
 
-![](./data_resource/framework.npg)
+![](./data_resource/framework.svg)
 
 *Figure: The overall framework of the spaNetReg.*
 
