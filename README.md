@@ -45,7 +45,7 @@ For example:
 bash data_preprocess.sh sample mm10 #Bash
 ``` 
 
-### 3️ Run the Model
+### 3 Run the Model
 ```
 python run_spaNetReg --sample sample #Bash
 ``` 
