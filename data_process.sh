@@ -22,7 +22,7 @@
 #   <sample>.txt               - Binary adjacency matrix of the TF network
 #
 # Dependencies:
-#   bedtools, bedops, sort-bed, FIMO, Python 3, MAESTRO
+#   bedtools, bedops, FIMO, Python 3, MAESTRO
 # ===============================================================
 sample=$1
 reference=$2
